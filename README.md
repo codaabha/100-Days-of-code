@@ -8,3 +8,6 @@ Topics: Primitive data types, Type conversion, mathematical operations, number m
 
 ## Day 3 Project: [Treasure Island](./Day3)
 Topics: Control flow and conditional statements, logic operators
+
+## Day 4 Project: [Rock Paper Scissors](./Day4)
+Topics: Randomisation, lists, Error Handling
