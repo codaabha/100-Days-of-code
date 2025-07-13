@@ -11,3 +11,6 @@ Topics: Control flow and conditional statements, logic operators
 
 ## Day 4 Project: [Rock Paper Scissors](./Day4)
 Topics: Randomisation, lists, Error Handling
+
+## Day 5 Project: [Password Generator](./Day5)
+Topics: Loops, lists & append, random module, user input
