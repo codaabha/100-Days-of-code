@@ -14,3 +14,6 @@ Topics: Randomisation, lists, Error Handling
 
 ## Day 5 Project: [Password Generator](./Day5)
 Topics: Loops, lists & append, random module, user input
+
+## Day 6 Project: [Escaping the maze](./Day6)
+#Topics: Functions& Karel, code indentation, while loop
