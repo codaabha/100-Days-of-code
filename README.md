@@ -17,3 +17,6 @@ Topics: Loops, lists & append, random module, user input
 
 ## Day 6 Project: [Escaping the maze](./Day6)
 #Topics: Functions& Karel, code indentation, while loop
+
+## Day 7 project: [Hangman](./Day7)
+#Topics: Flowchart programming, picking random words/guess+checking answers
